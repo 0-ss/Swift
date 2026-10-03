@@ -98,8 +98,7 @@ you use it. Do not use it to download or redistribute content you do not have ri
 
 ## Status
 
-Not yet implemented: OS media controls (MPRIS, media keys), tray notifications, library sections
-beyond playlists (uploads, artists, albums, liked songs), and automated tests for live API behavior.
+Not yet implemented: OS media controls (MPRIS, media keys), tray notifications, and automated tests for live API behavior.
 
 ## License
 
